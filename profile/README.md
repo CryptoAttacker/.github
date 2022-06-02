@@ -1,4 +1,5 @@
-<codersrank-skills-chart username="YOUR_USERNAME"></codersrank-skills-chart>
+![](https://komarev.com/ghpvc/?username=cryptoattacker&color=blue)
+
 
 # Mmdrza ( Enjoy Programming )
 
